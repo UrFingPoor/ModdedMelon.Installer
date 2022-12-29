@@ -1,5 +1,5 @@
 # About
- Installs Melonloader From Blaze To Support Update Deob Maps.
+ Installs Melonloader From Blaze To Support Updated Deob Maps.
 
 ### Usage:
 ```cs
