@@ -5,7 +5,7 @@
 ```cs
 How To Install:
 - Press Install
-- Find && Select VRChat.exe
+- Find & Select VRChat.exe
 - Run Eac Melon
 - Start VRChat.
 ```
