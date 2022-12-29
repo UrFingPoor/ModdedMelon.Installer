@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ModdedMelonInstaller
@@ -10,6 +11,6 @@ namespace ModdedMelonInstaller
         {
             InitializeComponent();
         }
-        private void button1_Click(object sender, EventArgs e) => Installer.InitDownload();
+        private async void DownloadBTN_Click(object sender, EventArgs e) => await Installer.DownloadModdedMelon();
     }
 }
