@@ -1,0 +1,9 @@
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\bin\Debug\ModdedMelonInstaller.exe.config
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\bin\Debug\ModdedMelonInstaller.exe
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\bin\Debug\ModdedMelonInstaller.pdb
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.Properties.Resources.resources
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.csproj.GenerateResource.cache
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.exe
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.pdb
+C:\Users\Josh\source\repos\ModdedMelonInstaller\ModdedMelonInstaller\obj\Debug\ModdedMelonInstaller.MainFRM.resources
