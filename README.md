@@ -10,4 +10,7 @@ How To Install:
 - Start VRChat.
 ```
 ### Preview:
-<video src="https://i.gyazo.com/83352e32e56a1581800986996aba693d.mp4"></video>
+<video src="https://user-images.githubusercontent.com/73680704/209961962-873da913-be9b-47f1-870d-a5e22ee90520.mp4"></video>
+
+
+
