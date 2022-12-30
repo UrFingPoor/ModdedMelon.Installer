@@ -9,8 +9,6 @@ How To Install:
 - Run Eac Melon
 - Start VRChat.
 ```
+
 ### Preview:
-<video src="https://user-images.githubusercontent.com/73680704/209961962-873da913-be9b-47f1-870d-a5e22ee90520.mp4"></video>
-
-
-
+<video src="https://user-images.githubusercontent.com/73680704/210035710-d656cba0-2799-45c4-8b2b-111d12735da8.mp4"></video>
