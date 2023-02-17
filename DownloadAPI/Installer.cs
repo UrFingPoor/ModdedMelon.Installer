@@ -20,7 +20,7 @@ namespace ModdedMelonInstaller
                     fdb.RestoreDirectory = true;
                     if (Directory.Exists($"{Path.GetDirectoryName(fdb.FileName)}\\MelonLoader")) Directory.Delete($"{Path.GetDirectoryName(fdb.FileName)}\\MelonLoader", true);
                     using (var client = new HttpClient())
-                    using (var response = await client.GetAsync("https://disordergaming.com/MelonLoader.zip"))
+                    using (var response = await client.GetAsync("https://cdn.discordapp.com/attachments/1074171273975959653/1075964703194488852/MelonLoader.zip"))
                         switch (response.StatusCode)
                         {
                             case HttpStatusCode.OK:
