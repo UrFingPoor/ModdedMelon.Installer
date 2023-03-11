@@ -1,5 +1,5 @@
 # About
- Installs Melonloader From Blaze To Support Updated Deob Maps.
+ Installs Melonloader From EACMelom To Support Updated Deob Maps.
 
 ### Usage:
 ```cs
@@ -13,5 +13,5 @@ How To Install:
 ### Preview:
 <video src="https://user-images.githubusercontent.com/73680704/210035710-d656cba0-2799-45c4-8b2b-111d12735da8.mp4"></video>
 
-
-Melonloader: [MelonLoader.zip](https://github.com/UrFingPoor/ModdedMelon.Installer/files/10507883/MelonLoader.zip)
+To Install Manually
+Melonloader: [MelonLoader.zip](https://github.com/UrFingPoor/ModdedMelon.Installer/files/10948581/MelonLoader.zip)
