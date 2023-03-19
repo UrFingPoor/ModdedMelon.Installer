@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.IO.Compression;
 using System.Net;
@@ -18,9 +18,10 @@ namespace ModdedMelonInstaller
                 if (fdb.ShowDialog() == DialogResult.OK)
                 {
                     fdb.RestoreDirectory = true;
+                    if (!Directory.Exists($"{Path.GetDirectoryName(fdb.FileName)}\\Mods")) Directory.CreateDirectory($"{Path.GetDirectoryName(fdb.FileName)}\\Mods");
                     if (Directory.Exists($"{Path.GetDirectoryName(fdb.FileName)}\\MelonLoader")) Directory.Delete($"{Path.GetDirectoryName(fdb.FileName)}\\MelonLoader", true);
                     using (var client = new HttpClient())
-                    using (var response = await client.GetAsync("https://github.com/UrFingPoor/ModdedMelon.Installer/files/10948581/MelonLoader.zip"))
+                    using (var response = await client.GetAsync("https://github.com/UrFingPoor/ModdedMelon.Installer/files/11010408/MelonLoader.zip"))
                         switch (response.StatusCode)
                         {
                             case HttpStatusCode.OK:
